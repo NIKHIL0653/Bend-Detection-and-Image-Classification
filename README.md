@@ -9,8 +9,9 @@
 
 ## Working of the model:
 
-![Bend Detection 1]([https://photos.app.goo.gl/16TsmdNPpbyJUahT7](https://drive.google.com/file/d/19X6lLVQSoedHqS1CS76yV3PZOSM8_PWO/view?usp=drive_link))
+![BEnd Detection 1](https://github.com/user-attachments/assets/c9d4a8dd-245b-4c3c-b84f-8de6b0bd7790)
 
-![Bend Detection 2]([https://photos.app.goo.gl/uq8YkDh3qGGW1c5e9](https://drive.google.com/file/d/17FkfLGqxSddTkISUUZpNvu0wmIe0x0Yq/view?usp=drive_link))
+![Bend Detection 2](https://github.com/user-attachments/assets/1c07a62b-e314-4aec-b2ac-823fa55a0f57)
 
-![Final Results]([https://photos.app.goo.gl/Jir1iWmKS3eBwtiv5](https://drive.google.com/file/d/1SQiqSUyNNL71lF-BmyX9q1lt_DBWYQAz/view?usp=drive_link))
+![final Results](https://github.com/user-attachments/assets/6c8672f2-2cd7-4d1b-8e83-936f65534ba8)
+
